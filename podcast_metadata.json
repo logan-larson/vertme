@@ -1,0 +1,32 @@
+{
+  "title": "Logan's Podcast",
+  "description": "A podcast with AI generated clips from LibreSpeak, a self-hosted Speechify alternative powered by ElevenLabs.",
+  "author": "Logan Larson",
+  "email": "loganlarson@caffeinatedstudios.dev",
+  "imageUrl": "https://whiteskinnywiener.caffeinatedstudios.dev/images/WhiteSkinnyWiener-removebg.png",
+  "category": "Technology",
+  "language": "en",
+  "episodes": [
+    {
+      "title": "The Man in the Arena",
+      "description": "Speech given by Teddy Roosevelt about giving credit to the man that is actually in the arena.",
+      "publishDate": "2025-02-18T06:56:06.461Z",
+      "audioUrl": "https://caffeinated-studios-bucket.us-ord-1.linodeobjects.com/test-podcast/1739861765731-ElevenLabs_2025-02-13T01_46_41_Teddy Roosevelt_ivc_s50_sb75_se0_b_m2.mp3",
+      "fileSize": 751072
+    },
+    {
+      "title": "Brandon Sanderson Lecture 1 Notes",
+      "description": "Notes from Brandon Sanderson's Lecture 1 of Sci-Fi/Fantasy writing lecture series in 2025.",
+      "publishDate": "2025-02-18T07:10:20.183Z",
+      "audioUrl": "https://caffeinated-studios-bucket.us-ord-1.linodeobjects.com/test-podcast/1739862615886-BrandonSandersonLecture1Recap.mp3",
+      "fileSize": 9745554
+    },
+    {
+      "title": "Citizenship in a Republic",
+      "description": "A speech given by Theodore Roosevelt, 26th US president, on April 23rd, 1910 in Paris, France. Commonly referred to as \"The Man in the Arena\" speech.",
+      "publishDate": "2025-02-19T06:10:53.144Z",
+      "audioUrl": "https://caffeinated-studios-bucket.us-ord-1.linodeobjects.com/test-podcast/1739945432870-CitizenshipInARepublic.mp3",
+      "fileSize": 50837606
+    }
+  ]
+}
